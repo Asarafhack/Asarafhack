@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/Asarafhack?label=Followers&style=for-the-badge" />
 </p>
 
----
+
 
 ## 📊 GitHub Analytics & Trophies
 
@@ -22,7 +22,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Asarafhack&theme=tokyonight&column=7&no-frame=true" />
 </p>
 
----
 
 ## 👨‍💻 Tech & Tools Arsenal
 
@@ -65,7 +64,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
----
+
 
 ## 🔥 Highlight Projects
 
@@ -75,132 +74,6 @@
 - 🛡 **OEM Vulnerability Detector** — Firmware scanner & report engine  
 - 🛒 **Smart Grocery Billing System** — Real-time billing, Firebase-linked
 
----
-
-## 🧾 Certifications & Learning
-
-- 🧠 **Google Cybersecurity Professional Certificate**  
-- 🕵️‍♂️ **TryHackMe - Red Teaming, SOC Analyst, Pre-Security**  
-- 📡 **Cisco CyberOps Associate (Basics)**  
-- 📚 **Coursera ML + Cybersecurity Labs**  
-- 🐞 **Bug Bounty: Recon, Reporting & PoC Development (Self-Taught)**
-
----
-
-## 📫 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/@Handsomeasaraf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Handsomeasaraf)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asaraf%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Asaraf(hacker)Ali)  
-📧 Email: **asarafcybertech@gmail.com**
-
----
-
-## 🧠 Final Words
-
-> _"Hack the ignorance. Secure the future."_  
-> — Shadow Guy aka `Asarafhack`
-
-<!-- Built with passion, payloads, and paranoia -->
-  
-  
-  
-<!-- START OF README -->
-
-<h1 align="center">Hey 👋, I'm Asaraf Ali</h1>
-<h3 align="center">aka <code>Asarafhack</code> — Ethical Hacker | Cyber Security Nerd | AI Explorer</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asarafhack&label=Profile%20views&color=0e75b6&style=flat" alt="Asarafhack" />
-</p>
-
----
-
-## 📊 GitHub Stats (Because Code Never Lies)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asarafhack&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asarafhack&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asarafhack&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages"/>
-</p>
-
----
- # 💫 About Me:
-Hey there! I’m **Asaraf Ali** – aka `Asarafhack`, an aspiring Cyber Security Specialist, Ethical Hacker, and AI tinkerer with a soft corner for the old-school but eyes set on the future.<br>  
-🎓 **Final Year B.Tech - Information Technology**  
-🧠 Tech isn't just my subject, it's my obsession. From scanning packets to building intelligent systems, I do it all.
-
----
-
-## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Handsomeasaraf)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asaraf(hacker)Ali)  
-📧 **Email**: asarafcybertech@gmail.com  
-🌍 **Portfolio**: [Coming Soon] – I'm crafting something that'll blow your socks off.
-
----
-
-## 🧠 What I'm Into:
-- 🔐 Ethical Hacking & Offensive Security  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🌐 Web3, Blockchain, and Smart Contracts  
-- 📊 Data Science & Visualization  
-- 💼 SAP Security & Enterprise Tools  
-- ☁️ Cloud Engineering on AWS | GCP | Azure  
-- 📱 Android & Full Stack App Development
-
----
-
-## 🔥 Current Projects:
-- 🚨 **Mystery Hacked System** – Simulated cyberattack + defense framework (CTF vibes)
-- 👮‍♂️ **Drug Trafficking Detector on Social Media** – SIH 2024 finalist project
-- 🧾 **ATS Resume Builder** – AI-powered resume analyzer (React + Firebase + ChatGPT)
-- 🛡 **OEM Vulnerability Detection Tool** – Analyzing embedded devices for threats
-- 🧾 **Grocery Smart Billing System** – Real-time pricing with weight-based billing
-
----
-## 🕶 Cybersecurity Arsenal
-
-> "While others scroll, I scan. While others post, I probe. I'm not just browsing — I'm watching the wire."
-
-### 🛡️ Core Domains:
-- **Ethical Hacking & Penetration Testing**
-- **Threat Intelligence & Reconnaissance (OSINT)**
-- **Web Application Security (OWASP Top 10)**
-- **Cloud & DevSecOps Security**
-- **Malware Analysis & Reverse Engineering (Basics)**
-- **Cryptography & Secure Protocols**
-- **Network Security & Packet Analysis**
-- **API Security & JWT Exploitation**
-- **System & Application Hardening**
-- **IoT & OEM Device Vulnerability Scanning**
-
----
-
-## 🧰 Cybersecurity Tools I Use:
-| Category              | Tools & Tech Stack |
-|----------------------|--------------------|
-| **Scanning & Recon** | `Nmap`, `Nikto`, `WhatWeb`, `theHarvester`, `Amass`, `Shodan`, `Maltego` |
-| **Web Hacking**      | `Burp Suite`, `OWASP ZAP`, `sqlmap`, `XSSer`, `Postman`, `WFuzz`, `JWT.io` |
-| **Password Attacks** | `Hydra`, `John the Ripper`, `Hashcat` |
-| **Payloads & Exploits** | `Metasploit`, `msfvenom`, `Exploit-DB`, `Searchsploit` |
-| **Forensics**        | `Autopsy`, `Volatility`, `binwalk`, `ExifTool` |
-| **Network Analysis** | `Wireshark`, `tcpdump`, `Ettercap`, `Snort`, `Zeek` |
-| **Hardening Tools**  | `ufw`, `fail2ban`, `iptables`, `AppArmor` |
-| **Bug Bounty Ready** | `HackerOne`, `Bugcrowd`, `Burp Collaborator`, `Google Dorking` |
-| **Scripting**        | `Python`, `Bash`, `PowerShell`, `JavaScript` |
-
----
-
-## 📦 Certifications & Learning Paths:
-- 🧠 **Google Cybersecurity Professional Certificate (Ongoing)**
-- 📡 **TryHackMe: Offensive Pentesting & Red Teaming**
-- 🔐 **Cisco CyberOps Basics**
-- 🧬 **AI + Security Projects via Coursera**
-- 🛠️ **Bug Bounty Hunter: Real Report Analyzer (self-learning)**
----
 ## 👨‍💻 Tech Stack:
 Here's the toolbox I tinker with (and sometimes break 👀):
 
@@ -241,28 +114,77 @@ Here's the toolbox I tinker with (and sometimes break 👀):
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)  
 ![SciKit Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Asarafhack&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Asarafhack&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asarafhack&theme=dark&hide_border=false&layout=compact)
 
----
+## 🕶 Cybersecurity Arsenal
 
-## 🚀 Fun Facts:
-- 💬 I speak fluent code and sarcasm.
-- 🥷 I once turned an old toaster into a Linux box (just kidding... or am I?)
-- 🧠 Obsessed with blending ancient hacking lore with next-gen AI wizardry.
-- 📚 I believe in learning like a monk, building like a beast.
+> "While others scroll, I scan. While others post, I probe. I'm not just browsing — I'm watching the wire."
 
----
+### 🛡️ Core Domains:
+- **Ethical Hacking & Penetration Testing**
+- **Threat Intelligence & Reconnaissance (OSINT)**
+- **Web Application Security (OWASP Top 10)**
+- **Cloud & DevSecOps Security**
+- **Malware Analysis & Reverse Engineering (Basics)**
+- **Cryptography & Secure Protocols**
+- **Network Security & Packet Analysis**
+- **API Security & JWT Exploitation**
+- **System & Application Hardening**
+- **IoT & OEM Device Vulnerability Scanning**
 
-> “Code like no one’s watching. Hack like everyone’s tracking.”  
-> — Shadow Guy aka Asarafhack
 
----
 
-[![](https://visitcount.itsvg.in/api?id=Asarafhack&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧰 Cybersecurity Tools I Use:
+| Category              | Tools & Tech Stack |
+|----------------------|--------------------|
+| **Scanning & Recon** | `Nmap`, `Nikto`, `WhatWeb`, `theHarvester`, `Amass`, `Shodan`, `Maltego` |
+| **Web Hacking**      | `Burp Suite`, `OWASP ZAP`, `sqlmap`, `XSSer`, `Postman`, `WFuzz`, `JWT.io` |
+| **Password Attacks** | `Hydra`, `John the Ripper`, `Hashcat` |
+| **Payloads & Exploits** | `Metasploit`, `msfvenom`, `Exploit-DB`, `Searchsploit` |
+| **Forensics**        | `Autopsy`, `Volatility`, `binwalk`, `ExifTool` |
+| **Network Analysis** | `Wireshark`, `tcpdump`, `Ettercap`, `Snort`, `Zeek` |
+| **Hardening Tools**  | `ufw`, `fail2ban`, `iptables`, `AppArmor` |
+| **Bug Bounty Ready** | `HackerOne`, `Bugcrowd`, `Burp Collaborator`, `Google Dorking` |
+| **Scripting**        | `Python`, `Bash`, `PowerShell`, `JavaScript` |
 
-<!-- Crafted with caffeine, late nights, and zero regrets -->
+
+## 🧠 What I'm Into:
+- 🔐 Ethical Hacking & Offensive Security  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🌐 Web3, Blockchain, and Smart Contracts  
+- 📊 Data Science & Visualization  
+- 💼 SAP Security & Enterprise Tools  
+- ☁️ Cloud Engineering on AWS | GCP | Azure  
+- 📱 Android & Full Stack App Development
+
+
+
+## 📦 Certifications & Learning Paths:
+- 🧠 **Google Cybersecurity Professional Certificate (Ongoing)**
+- 📡 **TryHackMe: Offensive Pentesting & Red Teaming**
+- 🔐 **Cisco CyberOps Basics**
+- 🧬 **AI + Security Projects via Coursera**
+- 🛠️ **Bug Bounty Hunter: Real Report Analyzer (self-learning)**
+
+
+## 📫 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/@Handsomeasaraf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Handsomeasaraf)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asaraf%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Asaraf(hacker)Ali)  
+📧 Email: **asarafcybertech@gmail.com**
+
+
+
+## 🧠 Final Words
+
+> _"Hack the ignorance. Secure the future."_  
+> — Shadow Guy aka `Asarafhack`
+
+<!-- Built with passion, payloads, and paranoia -->
+  
+  
